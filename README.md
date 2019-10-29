@@ -1,3 +1,3 @@
 # html
 
-beast HTML fle on GitHub!
+The best HTML file on GitHub!
